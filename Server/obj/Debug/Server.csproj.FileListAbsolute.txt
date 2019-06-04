@@ -1,0 +1,10 @@
+D:\AudioStreaming\Server\bin\Debug\Server.exe.config
+D:\AudioStreaming\Server\bin\Debug\Server.exe
+D:\AudioStreaming\Server\bin\Debug\Server.pdb
+D:\AudioStreaming\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\AudioStreaming\Server\obj\Debug\Server.exe
+D:\AudioStreaming\Server\obj\Debug\Server.pdb
+D:\AudioStreaming\Server\bin\Debug\Newtonsoft.Json.dll
+D:\AudioStreaming\Server\bin\Debug\Newtonsoft.Json.pdb
+D:\AudioStreaming\Server\bin\Debug\Newtonsoft.Json.xml
+D:\AudioStreaming\Server\obj\Debug\Server.csproj.CopyComplete

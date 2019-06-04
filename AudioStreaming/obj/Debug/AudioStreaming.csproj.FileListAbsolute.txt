@@ -1,0 +1,17 @@
+D:\AudioStreaming\AudioStreaming\bin\Debug\AudioStreaming.exe.config
+D:\AudioStreaming\AudioStreaming\bin\Debug\AudioStreaming.exe
+D:\AudioStreaming\AudioStreaming\bin\Debug\AudioStreaming.pdb
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.csprojAssemblyReference.cache
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.frmMain.resources
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.Properties.Resources.resources
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.csproj.GenerateResource.cache
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.csproj.CoreCompileInputs.cache
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.exe
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.pdb
+D:\AudioStreaming\AudioStreaming\bin\Debug\NAudio.dll
+D:\AudioStreaming\AudioStreaming\bin\Debug\NAudio.xml
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.csproj.CopyComplete
+D:\AudioStreaming\AudioStreaming\bin\Debug\Newtonsoft.Json.dll
+D:\AudioStreaming\AudioStreaming\bin\Debug\Newtonsoft.Json.pdb
+D:\AudioStreaming\AudioStreaming\bin\Debug\Newtonsoft.Json.xml
+D:\AudioStreaming\AudioStreaming\obj\Debug\AudioStreaming.PlayMusic.resources
